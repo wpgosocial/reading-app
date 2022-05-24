@@ -17,6 +17,6 @@ or
 ### `yarn start`
 
 ### Goal:
-My mission is to make this an <h3>open source project</h3>, that makes learning to read accessible for everyone.
+My mission is to make this an <strong>open source project</strong>, that makes learning to read accessible for everyone.
 
 <h2>More updates coming...</h2>

@@ -1,6 +1,6 @@
 # Getting Started with The Reading App
 
-This project in an that help children or anyone that are new to reading. It is based on the Distar method of teaching.
+This project is a <strong>Wep App</strong> that aims to help children or anyone that are new to reading. It is based on the Distar method of teaching.
 
 ## Available Scripts
 

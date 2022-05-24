@@ -16,7 +16,7 @@ cd to the Frontend folder in the terminal and type:
 or
 ### `yarn start`
 
-Goal:
-My mission is to make this an open source project. That makes accessible available for everyone to learn to read.
+### Goal:
+My mission is to make this an <h3>open source project</h3>, that makes learning to read accessible for everyone.
 
 <h2>More updates coming...</h2>
